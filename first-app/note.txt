@@ -1,0 +1,11 @@
+Pilares de React
+
+- Componenetes
+- Estado interno
+- Propiedades inmutables
+
+Ventajas de React
+
+- Virtual DOM
+- Componetizacion
+- Templating dentro de js
