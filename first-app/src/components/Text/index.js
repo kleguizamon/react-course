@@ -1,5 +1,8 @@
 import React from "react";
 
-const Text = () => <p>Random text</p>;
+const Text = (props) => {
+  const { content } = props;
+  return <p>{content}</p>;
+};
 
 export default Text;
